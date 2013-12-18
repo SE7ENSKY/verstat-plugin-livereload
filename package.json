@@ -1,7 +1,8 @@
 {
   "name": "verstat-plugin-livereload",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "dependencies": {
-    "livereload": "git://github.com/Se7enSky/node-livereload.git#master"
+    "tiny-lr": "0.0.5",
+    "request": "~2.30.0"
   }
 }
